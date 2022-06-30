@@ -1,6 +1,4 @@
-# AfricaPD
-Africa Parkinson's Disease (PD)
+# Africa Parkinson's Disease (PD)
 
-
-To view an interactive version of the map, please click [here](https://htmlpreview.github.io/?https://github.com/ahmedmoustafa/AfricaPD/blob/main/AfricaPD.html)
+To view an interactive map of the published research, please click [here](https://ahmedmoustafa.github.io/AfricaPD/)
 
