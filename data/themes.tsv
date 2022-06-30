@@ -1,0 +1,174 @@
+study_id	theme	name
+1	Genetics	Tunisia
+2	Genetics	Tunisia
+3	Genetics	Algeria,Tunisia,Morocco
+4	Genetics	Zambia
+5	Genetics	Sudan
+6	Genetics	Morocco,Tunisia,Algeria
+7	Genetics	Tunisia
+8	Genetics	Tunisia
+9	Genetics	Nigeria
+10	Genetics	Tunisia
+11	Genetics	Algeria,Morocco,Tunisia,Libya
+12	Genetics	South_Africa
+13	Genetics	Tunisia
+14	Genetics	Sudan
+15	Genetics	South_Africa
+16	Genetics	South_Africa
+17	Genetics	South_Africa
+18	Genetics+Clinical	Algeria
+19	Genetics	Tunisia
+20	Genetics	Tunisia
+21	Genetics	Tunisia
+22	Genetics	South_Africa
+23	Genetics	Algeria,Morocco,Tunisia,Libya
+24	Genetics	Tunisia
+25	Genetics	Algeria
+26	Genetics	South_Africa
+27	Genetics	Egypt
+28	Genetics+Clinical	Tunisia
+29	Genetics	South_Africa
+30	Genetics	Zambia
+31	Genetics	South_Africa
+32	Genetics	Tunisia
+33	Genetics	South_Africa
+34	Genetics	Tunisia
+35	Genetics	Tunisia
+36	Genetics	South_Africa
+37	Genetics	South_Africa
+38	Genetics	Egypt
+39	Genetics	South_Africa
+40	Genetics	Morocco
+41	Genetics	Algeria
+42	Genetics	South_Africa
+43	Genetics	Tunisia
+44	Genetics	Morocco
+45	Genetics	Morocco
+46	Genetics	Sudan
+47	Genetics	South_Africa
+48	Genetics+Clinical	Tunisia
+49	Genetics	Nigeria
+50	Genetics	Egypt
+51	Genetics	South_Africa
+52	Genetics	South_Africa
+53	Genetics	South,Africa,Nigeria
+54	Genetics	Tanzania
+55	Genetics	Tunisia
+56	Genetics	South_Africa
+57	Genetics	Nigeria
+58	Genetics	Tunisia
+59	Genetics	South_Africa
+60	Genetics	Nigeria
+61	Genetics	Tanzania
+62	Genetics	South_Africa
+63	Genetics	South_Africa,Nigeria
+64	Genetics	Morocco
+65	Genetics	Nigeria
+66	Genetics	Nigeria
+67	Genetics	South_Africa
+68	Genetics	Nigeria
+69	Genetics+Clinical	Egypt
+70	Clinical features	Nigeria
+71	Clinical features	Tunisia
+72	Clinical features	Nigeria
+73	Clinical features	Tanzania
+74	Clinical features	Tanzania
+75	Clinical features+Epidemiology	Zambia
+76	Clinical features	Sudan
+77	Clinical features	Nigeria
+78	Clinical features	Senegal
+79	Clinical features	Tanzania
+80	Clinical features	Nigeria
+81	Clinical features	Nigeria
+82	Clinical features	Nigeria
+83	Clinical features	Tanzania
+84	Clinical features	Egypt
+85	Clinical features	Nigeria
+86	Clinical features	Nigeria
+87	Clinical features	Cameroon
+88	Genetics+Clinical	Zambia
+89	clinical features	South_Africa
+90	Clinical features	Nigeria
+91	Clinical features	Morocco
+92	Clinical features	Ghana
+93	Clinical features	Nigeria
+94	Clinical features	South_Africa
+95	Clinical features	Senegal
+96	clinical features	Tanzania
+97	Clinical features	Nigeria
+98	Clinical features	Nigeria
+99	Clinical features	Egypt
+100	Clinical features	Madagascar
+101	Clinical features	Nigeria
+102	Clinical features	Nigeria
+103	Clinical features	Nigeria
+104	Clinical features	Ethiopia
+105	Clinical features	Morocco
+106	Clinical features	Ethiopia
+107	Clinical features	Niger
+108	Clinical features	South_Africa
+109	Clinical features	Cameroon
+110	Clinical features	Ethiopia
+111	Clinical features	Egypt
+112	Clinical features	Senegal
+113	Clinical features	Nigeria
+114	Clinical features	Nigeria,Egypt,Cameroon
+115	Clinical features	South_Africa
+116	Clinical features	Morocco
+117	Clinical features	Egypt
+118	Clinical features	Ghana,Zambia
+119	Clinical features	Nigeria
+120	Clinical features	South_Africa
+121	Clinical features	Morocco
+122	Clinical features	Ethiopia
+123	Clinical features	Kenya
+124	Clinical features	Egypt
+125	Clinical features	Morocco
+126	Clinical features	Tunisia
+127	Epidemiology	Libya
+128	Epidemiology	Nigeria
+129	Epidemiology	Ethiopia
+130	Epidemiology	Tunisia
+131	Epidemiology	Cameroon
+132	Epidemiology	Tanzania
+133	Epidemiology	Nigeria
+134	Epidemiology	Tanzania
+135	Epidemiology	Egypt
+136	Epidemiology	Egypt
+137	Epidemiology	Egypt
+138	Epidemiology	Cameroon
+139	Epidemiology	Cameroon
+140	Epidemiology	Nigeria
+141	Epidemiology	Nigeria
+142	Epidemiology	Benin
+143	Risk factors	South_Africa
+144	Risk factors	Malawi,Mozambique
+145	Risk factors	Ghana
+146	Risk factors	Nigeria
+147	Risk factors	Egypt
+148	Risk factors	Egypt
+149	Risk factors	South_Africa
+150	Risk Factors	Tunisia
+151	Risk factors	Morocco
+152	Risk Factors	South_Africa
+153	Risk Factors	Morocco
+154	Risk factor	Tunisia
+155	Risk factor	South_Africa
+156	Management and Access to care	Tanzania
+157	Management and Access to care	Kenya
+158	Management and Access to care	Nigeria
+159	Management and Access to care	Egypt,Congo,Tunisia,Nigeria,Adis,Ababa,Ethiopia,Cameroon,Morocco,Sudan,Algeria,Madagascar,Ivory,Coast,Niger,Burkina,Faso,Uganda,Somalia,Malawi,Burundi,Namibia,Libya,Botswana,Chad,Djibouti,Zimbabwe,Kenya,Tanzania,Ghana,Zambia,South_Africa
+160	Management and Access to care	South_Africa
+161	Management and Access to care	Tunisia
+162	Patient engagement and QOL	Tanzania
+163	Patient engagement and QOL	Nigeria
+164	Patient engagement and QOL	Nigeria
+165	Patient engagement and QOL	Uganda
+167	Patient engagement and QOL	South_Africa
+168	Patient engagement and QOL	Ethiopia
+169	Patient engagement and QOL	Senegal
+170	Patient engagement and QOL	Kenya
+171	Education and Training	Cameroon
+172	Education and Training	Cameroon
+173	Education and Training	Cameroon
+174	Unknown	Nigeria
